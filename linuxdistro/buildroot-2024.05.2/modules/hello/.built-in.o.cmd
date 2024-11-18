@@ -1,0 +1,1 @@
+cmd_/home/homeserver/cso/linuxdistro/buildroot-2024.05.2/modules/hello/built-in.o :=  rm -f /home/homeserver/cso/linuxdistro/buildroot-2024.05.2/modules/hello/built-in.o; ar rcSTPD /home/homeserver/cso/linuxdistro/buildroot-2024.05.2/modules/hello/built-in.o

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd ~/cso/linuxdistro/buildroot-2024.05.2
+cp output/build/linux-custom/.config ../linux-4.13.9/arch/x86/configs/qemu_x86_custom_defconfig
